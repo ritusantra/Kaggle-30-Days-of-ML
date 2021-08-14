@@ -9,4 +9,4 @@ Kaggle’s 30 Days of Machine Learning Challenge for beginners.
 
 **Day 12 - Day 14**: Intermediate Machine Learning
 
-**Day 15 - Day 31**: Kaggle Competition
+**Day 15 - Day 30**: Kaggle Competition
